@@ -17,11 +17,11 @@ env:
   # Set the Azure Resource Group name
   AzureResourceGroup: Maged
   # Set the Azure LUIS Authoring Resource name
-  AzureLuisAuthoringResourceName: LUISDevOpsResource-Authoring
+  AzureLuisAuthoringResourceName: LUISDevOpsResource-Authoring1
   # Set the Azure LUIS Prediction Resource name
-  AzureLuisPredictionResourceName: LUISDevOpsResource-Prediction
+  AzureLuisPredictionResourceName: LUISDevOpsResource-Prediction1
   # Set the Azure Storage Account name
-  AzureStorageAccountName: luisdevopsstorage
+  AzureStorageAccountName: luisdevopsstorage1
   
   # Set the name of the master LUIS app
   LUIS_MASTER_APP_NAME: LUISDevOps-master

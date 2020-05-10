@@ -1,3 +1,4 @@
+ powershell -ExecutionPolicy ByPass -File script.ps1
 #!/bin/bash
 # Get the Service Principal name
 SP_DEFAULT="myLUISDevOpsApp-$RANDOM"
